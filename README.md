@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center"><h1>欢迎接入<a href="https://zanbuffet.github.io/">归去来兮OS<a/></h1>
+
+<a href="https://zanbuffet.github.io/"> <img src="https://s11.ax1x.com/2024/01/03/pivVaN9.png" alt="pivVaN9.png" style="width:250%;" />
 
 <!--
 **Zanbuffet/Zanbuffet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
